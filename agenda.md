@@ -1,4 +1,8 @@
 ## GitHub Working Group Meeting Agenda
+### 2021-05-24
+- Enterprise admins? Anyone?
+- Status Updates
+- Questions?
 
 ### 2021-05-17
 #### Is CU Boulder trying to control GitHub?
