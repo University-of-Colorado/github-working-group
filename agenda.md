@@ -4,6 +4,11 @@
 - Any work with billing?
 - Questions?
 
+#### Azure AD Self Service:
+References for Azure AD self service:
+- https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/github-tutorial
+- https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/access-panel-manage-self-service-access
+
 ### 2021-05-24
 - Enterprise admins? Anyone?
 - Status Updates
