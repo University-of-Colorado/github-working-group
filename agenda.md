@@ -1,4 +1,9 @@
 ## GitHub Working Group Meeting Agenda
+### 2021-06-07
+- Status Updates
+- Any work with billing?
+- Questions?
+
 ### 2021-05-24
 - Enterprise admins? Anyone?
 - Status Updates
