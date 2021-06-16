@@ -1,4 +1,7 @@
 ## GitHub Working Group Meeting Agenda
+### 2021-06-16
+- Office hours (open forum for questions/concerns)
+
 ### 2021-06-07
 - Status Updates
 - Any work with billing?
