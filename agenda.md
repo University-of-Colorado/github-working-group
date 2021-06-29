@@ -1,4 +1,8 @@
 ## GitHub Working Group Meeting Agenda
+### 2021-06-30
+- On the ups and downs of Azure AD Team Sync (https://docs.github.com/en/organizations/managing-saml-single-sign-on-for-your-organization/managing-team-synchronization-for-your-organization)
+- Office hours
+
 ### 2021-06-16
 - Office hours (open forum for questions/concerns)
 
