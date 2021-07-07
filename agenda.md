@@ -2,6 +2,7 @@
 ### 2021-07-07
 - Reduce meeting cadence
 - Final moves (probably) for auth in Boulder's GitHub.
+- Understanding Internal Repositories
 - Office hours
 
 ### 2021-06-30
