@@ -1,4 +1,7 @@
 ## GitHub Working Group Meeting Agenda
+### 2021-07-21
+- Office hours
+
 ### 2021-07-07
 - Reduce meeting cadence
 - Final moves (probably) for auth in Boulder's GitHub.
