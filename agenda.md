@@ -1,4 +1,9 @@
 ## GitHub Working Group Meeting Agenda
+### 2021-08-04
+- When can we expect the billing program to be available?
+- Self service with Azure AD + SCIM, the good and the bad.
+- Office hours
+
 ### 2021-07-21
 - Office hours
 
