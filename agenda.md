@@ -2,6 +2,7 @@
 ### 2021-08-18
 - Billing program updates?
 - Reduce the cadence of these meetings?
+- Transition to Dave as MC of these meetings, or does someone else wish to step up?
 - Office Hourse
 
 ### 2021-08-04
