@@ -1,9 +1,26 @@
-## GitHub Working Group Meeting Agenda
+## GitHub Working Group Meeting Agendas & Notes
+Meeting notes inline in italics (starting with 2021-08-18 meeting)
+
+### 2021-09-01
+
 ### 2021-08-18
 - Transition to Dave as MC of these meetings, or does someone else wish to step up?
+  - _Dave will facilitate from here._
 - Billing program updates?
-- Reduce the cadence of these meetings?
+  - _Matt Roush wasn't in attendance today, so no updates._
+  - _Expectation is that we'll have initial / basic billing processes in place by the end of August._
+- Reduce the cadence of these meetings
+  - _Sticking with every two weeks for now and we'll adjust as needed._
 - Office Hours
+  - _GitHub Projects, Project Boards, and Issues features_
+    - _Chris Edmundson inquired about these capabilities as a possible alternate to Jira, for example._
+    - _GitHub Projects offers Kanban type functionality._
+    - _Boulder currently runs Jira Server but the future is a little uncertain with licensing and Jira Server, Jira Cloud, etc._
+    - _More conversations about workflow and CI/CD tools are expected at the CU system (or "enterprise") level._
+    - _Chris Wilhemsen has a lot of experience with Jira and other Atlassian tools and would love to be involved in any conversations in this area._
+  - _New Opportunities / Changes_
+    - _Erinn will be retiring from IT and leaving the University in mid-September._
+    - _Chris Edmundson will be taking on a new IT Security role within UCD OIT in late August._
 
 ### 2021-08-04
 - When can we expect the billing program to be available?
