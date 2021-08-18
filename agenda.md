@@ -1,9 +1,9 @@
 ## GitHub Working Group Meeting Agenda
 ### 2021-08-18
+- Transition to Dave as MC of these meetings, or does someone else wish to step up?
 - Billing program updates?
 - Reduce the cadence of these meetings?
-- Transition to Dave as MC of these meetings, or does someone else wish to step up?
-- Office Hourse
+- Office Hours
 
 ### 2021-08-04
 - When can we expect the billing program to be available?
