@@ -2,6 +2,9 @@
 Meeting notes inline in italics (starting with 2021-08-18 meeting)
 
 ### 2021-09-01
+- Reminder about Dave facilitating for any new attendees.
+- Billing updates?
+- Office Hours
 
 ### 2021-08-18
 - Transition to Dave as MC of these meetings, or does someone else wish to step up?
