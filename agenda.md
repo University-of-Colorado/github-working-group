@@ -1,9 +1,28 @@
 ## GitHub Working Group Meeting Agendas & Notes
 Meeting notes inline in italics (starting with 2021-08-18 meeting)
 
+### 2021-09-29
+- Billing updates
+  - Actual billing for April - September expected soon (Todd Schaefer)
+  - Kludge to get current data displayed locally via Matt Roush's dashboard Node.js app
+  - Any time or interest among the group in contributing?
+- Office Hours
+
+### 2021-09-15
+- Note about repository sizes, quotas, and GitHub large file storage (LFS) and billing implications.
+  - _Documentation has been updated at https://university-of-colorado.github.io/_
+  - _FAQ now has a section related to this._
+- Office Hours
+
 ### 2021-09-01
 - Reminder about Dave facilitating for any new attendees.
-- Billing updates?
+- Billing updates
+  - _Matt gave a demo of his initial billing dashboard work._
+  - _Matt's last day with CU is September 10._
+  - _Billing dashboard code to be committed to GiitHub as part of Matt's transition._
+  - _Goal is to bill all the campuses for the ,April - September period at the end of September
+  - _UCB to "own" billing functionality?
+  - _Chris Rose will be joining for now with Matt leaving
 - Office Hours
 
 ### 2021-08-18
