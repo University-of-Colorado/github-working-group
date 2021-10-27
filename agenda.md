@@ -1,12 +1,62 @@
 ## GitHub Working Group Meeting Agendas & Notes
 Meeting notes inline in italics (starting with 2021-08-18 meeting)
 
+### 2021-10-27
+- GitHub Organization Moves
+  - It's possible to move other existing organizations among CU
+    departments into our GitHub enterprise account.
+  - This is a "wholesale" move and retains permissions, history, etc.
+  - UCB working with PhET (see [phet.colorado.edu](https://phet.colorado.edu))
+    on moving their existing organization (with a GitHub "gold"
+    contract) into our enterprise, which will let them access project
+    features not currently available to them.
+  - Some coordination needed for transition to SSO and making SSO a
+    requirement.
+  - GitHub will assist with actually moving the organization (this
+    doesn't appear to be something we can do on our own).
+- LFS Quota Issues
+  - UCB noticed that our small 1Gb LFS quota is sitting at 96% used due
+    to one UCB repository.
+  - Need more visibility going forward (dashboard or scheduled
+    reporting).
+  - For now will need to reach out to the department to see if they can
+    reduce the repo footprint and remove from commit history.
+- Office Hours
+  - _Billing Update from Todd_
+    - _Todd received speedtypes from all campuses_
+    - _This invoice was for the initial six month period between April
+      and September and consisted of half of our annual license cost._
+    - _UCB just paid the next full year of our license as of September
+      20_
+    - _Discussed next billing out to the campuses - looking at July 2022
+      so campuses can make budget requests for the next fiscal year._
+    - _Billing may evolve over time beyond our initial, simple "snapshot"
+      usage model._
+  - _UIS and GitHub / GitLab_
+    - _UIS is still using an expensive GitLab license_
+    - _Todd to check in with UIS about potential migration to GitHub_
+    - _Still potential benefits to be had here with collaboration among
+      UIS and campus development teams._
+
+### 2021-10-13
+- Repository Transfers
+  - Keep in mind that owners of the "destination" organization receive
+    an automated email notification from GitHub when a repository is
+    transferred into an org.
+  - No automated notifications are sent to the GitHub user initiating
+    the transfer or the owners of the "originating" repository or
+    organization.
+  - UCB submitted a support case to GitHub about this and it was added
+    as a feature request.
+- Office hours
+
 ### 2021-09-29
 - Billing updates
   - Actual billing for April - September expected soon (Todd Schaefer)
   - Kludge to get current data displayed locally via Matt Roush's dashboard Node.js app
   - Any time or interest among the group in contributing?
 - Office Hours
+  - _Not GitHub related, but some misc discussion of new developments with OpenShift education/research licensing._
 
 ### 2021-09-15
 - Note about repository sizes, quotas, and GitHub large file storage (LFS) and billing implications.
