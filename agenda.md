@@ -1,6 +1,11 @@
 ## GitHub Working Group Meeting Agendas & Notes
 Meeting notes inline in italics (starting with 2021-08-18 meeting)
 
+### 2021-11-10
+- Note about GitHub LFS (Large File Storage) quota
+- Office hours
+
+
 ### 2021-10-27
 - GitHub Organization Moves
   - It's possible to move other existing organizations among CU
