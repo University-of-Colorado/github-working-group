@@ -1,10 +1,17 @@
 ## GitHub Working Group Meeting Agendas & Notes
 Meeting notes inline in italics (starting with 2021-08-18 meeting)
 
+### 2021-12-08
+- Quick GitHub LFS (Large File Storage) update
+- Office Hours
+
+### 2021-11-24
+- No meeting today due to Thanksgiving week and holiday
+
 ### 2021-11-10
 - Note about GitHub LFS (Large File Storage) quota
+  - _Boulder looking at buying additional data packs for the enterprise_
 - Office hours
-
 
 ### 2021-10-27
 - GitHub Organization Moves
