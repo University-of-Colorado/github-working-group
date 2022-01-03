@@ -1,12 +1,19 @@
 ## GitHub Working Group Meeting Agendas & Notes
 Meeting notes inline in italics (starting with 2021-08-18 meeting)
 
+### First meeting of 2022 TBD
+
+### 2021-12-22
+- No meeting due to holidays
+
 ### 2021-12-08
 - Quick GitHub LFS (Large File Storage) update
+  - _UCB purchased "Data Packs" to alleviate default low quotas and avoid the need to "police" usage_
+  - _UCB is currently the only org where repositories are using LFS_
 - Office Hours
 
 ### 2021-11-24
-- No meeting today due to Thanksgiving week and holiday
+- No meeting due to Thanksgiving week and holiday
 
 ### 2021-11-10
 - Note about GitHub LFS (Large File Storage) quota
