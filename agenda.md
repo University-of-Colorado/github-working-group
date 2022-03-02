@@ -1,6 +1,9 @@
 ## GitHub Working Group Meeting Agendas & Notes
 Meeting notes inline in italics (starting with 2021-08-18 meeting)
 
+### 2022-03-02
+- Office Hours / Walk-on Topics
+
 ### 2022-02-17
 - Initial meeting of working group for 2022
 - Office Hours / Walk-on Topics
