@@ -1,7 +1,27 @@
 ## GitHub Working Group Meeting Agendas & Notes
 Meeting notes inline in italics (starting with 2021-08-18 meeting)
 
-### First meeting of 2022 TBD
+### 2022-02-17
+- Initial meeting of working group for 2022
+- Office Hours / Walk-on Topics
+  - _Billing_
+    - _After billing the campuses in September for the initial 6 months of our GitHub Enterprise license, we won't be charged again until September 2022_
+    - _There may be some desire to pull billing numbers in April (ahead of the fiscal year end) to allow campuses to include projected GitHub spending in the budget planning process_
+    - _Still TBD based on discussion between Todd and UCB OIT Budget and Finance_
+   - _Adoption across campuses_
+     - _UIS still using GitLab_
+     - _Todd to check in with them about potentially transitioning to GitHub_
+     - _UIS has invested significant time and effort into GitLab and transition may be tricky_
+   - _Miscellaneous discussion about security scanning, image registries, and build/deploy processes_
+     - _In light of recent security issues like log4j, questions came up about taking advantage of security features in GitHub_
+     - _Dependabot is currently being used by some teams_
+     - _GitHub CodeQL was mentioned as another potential tool_
+     - _GitHub Packages was also noted as a potential container image registry and supports other uses, as well_
+     - _GitHub Packages may also introduce some opportunities for vulnerability scanning, dependency scanning, etc._
+     - _UCB and perhaps others would benefit from formal guidance in terms of various CI/CD tools, including security and vulnerability measures_
+       - _Possible some of this work will be undertaken by UCB Architecture Review Board_
+
+### 2022 Meetings started again on 2/17
 
 ### 2021-12-22
 - No meeting due to holidays
@@ -89,9 +109,9 @@ Meeting notes inline in italics (starting with 2021-08-18 meeting)
   - _Matt gave a demo of his initial billing dashboard work._
   - _Matt's last day with CU is September 10._
   - _Billing dashboard code to be committed to GiitHub as part of Matt's transition._
-  - _Goal is to bill all the campuses for the ,April - September period at the end of September
-  - _UCB to "own" billing functionality?
-  - _Chris Rose will be joining for now with Matt leaving
+  - _Goal is to bill all the campuses for the ,April - September period at the end of September_
+  - _UCB to "own" billing functionality?_
+  - _Chris Rose will be joining for now with Matt leaving_
 - Office Hours
 
 ### 2021-08-18
