@@ -1,7 +1,7 @@
 ## GitHub Working Group Meeting Agendas & Notes
 Meeting notes inline in italics (starting with 2021-08-18 meeting)
 ### 2022-03-30
-- GitHub outage on 3/17 and (GitHub Status page)[https://www.githubstatus.com/] awareness
+- GitHub outage on 3/17 and [GitHub Status page](https://www.githubstatus.com/) awareness
 
 ### 2022-03-16
 - TODO: add notes
