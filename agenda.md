@@ -1,14 +1,40 @@
 ## GitHub Working Group Meeting Agendas & Notes
 Meeting notes inline in italics (starting with 2021-08-18 meeting)
+
+### 2022-05-25
+
+### 2022-05-11
+- Office Hours / Walk-on topics
+- Welcome new UCCS staff members Xiang Tan and Jonathan Douglas
+- Chris Wilhelmsen
+  - Lots of GitHub activity at CU Anschutz (Informatics, Health AI)
+  - Suggested using organization "friendly name" conventions to designate which campuses own which orgs
+  - Some discussion of billing that is tied to orgs and may occur monthly - all billing rolls up to the enterprise
+  - If campuses beyond UCB start using per-org billed features we may need to navigate that with Todd Schaefer
+- Ad hoc platform / devops discussion
+  - Chris Wilhemsem
+    - CU Denver / Anschutz looking at k8s in Oracle cloud; interest in Prometheus and Grafana
+    - Chris W. also noted some contractor work taking place in Google Cloud and using GitHub for code and automation
+  - Ryan LaRoy
+    - VPN work
+  - Eric Schneider
+    - New UCCS staff
+    - Ansible Tower licensed and in use
+    - Continuing to work on OpenShift and Academic Licensing
+
+### 2022-04-27
+- No meeting today
+### 2022-04-13
+- Office Hours / Walk-on Topics
+
 ### 2022-03-30
 - GitHub outage on 3/17 and [GitHub Status page](https://www.githubstatus.com/) awareness
 
 ### 2022-03-16
-- TODO: add notes
+- Office Hours / Walk-on Topics
 
 ### 2022-03-02
 - Office Hours / Walk-on Topics
-- TODO: add notes
 
 ### 2022-02-17
 - Initial meeting of working group for 2022
