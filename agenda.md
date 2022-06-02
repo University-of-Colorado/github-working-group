@@ -1,10 +1,35 @@
 ## GitHub Working Group Meeting Agendas & Notes
 Meeting notes inline in italics (starting with 2021-08-18 meeting)
 
+### 2022-06-22
+
+### 2022-06-08
+- No meeting
+
 ### 2022-05-25
+- No new GitHub topics today
+- Jason and Dave gave some updates on UCB OpenShift work and roadmap
+  - Looking at cluster redundancy across data centers
+  - Initially using VMware and IPI, eventually hope to move to bare metal
+  - VMware licensing very expensive and prohibitive to running OpenShift long-term
+  - Some current challenges and improvements include:
+    - backups including volumes using OADP operator
+    - etcd performance alerts
+    - customer workload requests and worker node resources
+    - cost model using Red Hat operator
+  - We see future container use expanding in production and for critical services
+
+- Consider re-branding this group as more of a C3 DevOps/Automation/Containerization working group?
+  - Would be good to check in with Orrie about this eventually
+
+- UCCS updates from Ryan and Eric
+  - Continuing to explore OpenShift
+  - Using OpenShift install in AWS for now while academic licensing is still in the works
+  - Have done some proof-of-concept work bringing up one or two existing "hosted" web applications in OpenShift
+  - Experience has been very positive thus far
+  - Trying to get ROSA trial going but running into some hurdles
 
 ### 2022-05-11
-- Office Hours / Walk-on topics
 - Welcome new UCCS staff members Xiang Tan and Jonathan Douglas
 - Chris Wilhelmsen
   - Lots of GitHub activity at CU Anschutz (Informatics, Health AI)
