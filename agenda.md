@@ -1,7 +1,32 @@
 ## GitHub Working Group Meeting Agendas & Notes
 Meeting notes inline in italics (starting with 2021-08-18 meeting)
 
+### 2022-07-20
+
+### 2022-07-06
+- No planned topics today
+- UCCS noted that they now have an academic license for OpenShift
+- UCCS will be working on installing on GPU hardware and working with an Engineering project
+  to migrate some containers from standalone hosts running Docker to OpenShift
+- Chris Rose from Advancement noted that Ryan Mannix will be the Advancement contact for
+  GitHub. Ryan has been added to the meeting invitation and ongoing group chat in Teams.
+- UCB is working on building "public facing" documentation for our OpenShift Container
+  Platform service in GitHub, which is somewhat of a new path for OIT teams.
+  - Still a work in progress
+  - See https://vigilant-invention-cd8a497f.pages.github.io/ for an example
+
 ### 2022-06-22
+- No planned topics today
+- Ad hoc discussion about GitHub Actions access to campus resources that are protected by firewalls
+  - GitHub Actions subnets are substantial
+  - UCB has done some exploration of automatically scraping these subnets/ranges periodically with
+    the idea that our networking team could regularly update border firewall rules
+    - We haven't been able to get this fully implemented
+  - It appears that some universities are using purpose-built VPNs to allow GitHub Actions
+  - Locally hosted GitHub Actions runners are still an option
+  - GitHub webhooks IP ranges seem to be smaller and perhaps less unwieldy than GH Actions subnets
+  - UCCS noted that they are using Pritunl VPN for some research computing needs and currently
+    have an enterprise license
 
 ### 2022-06-08
 - No meeting
