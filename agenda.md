@@ -1,7 +1,29 @@
 ## GitHub Working Group Meeting Agendas & Notes
 Meeting notes inline in italics (starting with 2021-08-18 meeting)
 
+### 2022-09-13
+- UCB OpenShift demo / show-and-tell
+
+### 2022-08-30
+- No planned topics
+- Discussed ideas for future meetings and trying to switch to a more demo / show-and-tell approach
+  - Can be informal, more like "agile" demos at a sprint review, for example, than presentations
+- UCB will give a little OpenShift tour next meeting 9/13 (Dave will inform everyone via the invitation)
+- Ideas for future topics
+  - UCCS - Ansible Tower and using surveys to facilitate self-service or allow the help desk to fulfill user requests
+  - CI/CD testing approaches - possibly ask UCB Buff Portal or Development teams if they would be willing to share?
+  - UCB Web Express - service to allow departments and teams to publish web sites using established "libraries" for branding, consistency, and commonly needed functionality like authentication.
+- Still worth thinking about trying to transform this group into a C3 "DevOps" group
+  - Dave will check in with Orrie
+
+### 2022-08-17
+- No planned topics, no attendees
+
+### 2022-08-03
+- No planned topics, just a quick check in
+
 ### 2022-07-20
+- No meeting
 
 ### 2022-07-06
 - No planned topics today
